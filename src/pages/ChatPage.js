@@ -12,7 +12,7 @@ import {
   Smile,
   ArrowLeft
 } from 'lucide-react';
-import toast from 'react-hot-toast';
+
 
 const ChatPage = () => {
   const { 

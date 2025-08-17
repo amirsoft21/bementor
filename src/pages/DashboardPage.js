@@ -12,7 +12,6 @@ import {
   Settings,
   Bell,
   Search,
-  Filter,
   ArrowRight,
   Clock,
   DollarSign,

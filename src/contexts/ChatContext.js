@@ -1,7 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { io } from 'socket.io-client';
 import { useAuth } from './AuthContext';
-import toast from 'react-hot-toast';
 
 const ChatContext = createContext();
 

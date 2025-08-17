@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Filter, Star, MapPin, DollarSign, Award, Info } from 'lucide-react';
+import { Search, Filter, Star, MapPin, DollarSign, Info } from 'lucide-react';
 import { mockTeachers, subjects, locations } from '../data/mockData';
 import TeacherCard from '../components/teachers/TeacherCard';
 
